@@ -1,0 +1,25 @@
+// Header Files
+#include <Windows.h>
+
+#include "OGL.h"
+
+MYICON ICON MyIcon.ico
+
+//************************ Sir's Audio ************************
+KALLA_KA_SANGA_MALA			WAVE          ".\\Audio\\kalla_ka_sanga_mala.wav"
+
+
+MYIMAGE_ASTROMEDICOMP_BITMAP BITMAP Astromedicomp.bmp
+
+MYIMAGE_ORTHO_BITMAP BITMAP Ortho.bmp
+
+MYIMAGE_TECHUSED_BITMAP BITMAP TechnologyUsed.bmp
+
+MYIMAGE_GROUPMEMBERS_BITMAP BITMAP GroupMembers.bmp
+
+MYIMAGE_GROUPLEADER_BITMAP BITMAP GroupLeader.bmp
+
+MYIMAGE_MADAM_BITMAP BITMAP Madam.bmp
+
+MYIMAGE_SIR_BITMAP BITMAP Sir.bmp
+

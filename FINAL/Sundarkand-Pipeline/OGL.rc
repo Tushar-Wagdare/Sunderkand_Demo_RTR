@@ -1,0 +1,23 @@
+#include <windows.h>
+
+#include "Headers/common/OGL.h"
+
+MYICON ICON Icons/MyIcon.ico
+
+//************************ Chaupai_1 ************************
+CH_1_S_1			WAVE          ".\\Audio\\Chaupai1\\Sunderkand.wav"
+CH_1_S_2			WAVE          ".\\Audio\\Chaupai1\\Sunderkand_2.wav"
+CH_1_S_3			WAVE          ".\\Audio\\Chaupai1\\Sunderkand_3.wav"
+CH_1_S_4			WAVE          ".\\Audio\\Chaupai1\\Sunderkand_4.wav"
+//************************ Chaupai_2 ************************
+CH_2_P_1            WAVE          ".\\Audio\\Chaupai1\\Sunderkand_Chaupai2_Part1.wav"
+CH_2_P_2            WAVE          ".\\Audio\\Chaupai1\\Sunderkand_Chaupai2_Part2.wav"
+//************************ Chaupai_3 ************************
+CH_3_S_1            WAVE          ".\\Audio\\Chaupai1\\Sunderkand_Chaupai3_Part1.wav"
+CH_3_S_2            WAVE          ".\\Audio\\Chaupai1\\Sunderkand_Chaupai3_Part2.wav"
+CH_3_S_3            WAVE          ".\\Audio\\Chaupai1\\Sunderkand_Chaupai3_Part3.wav"
+//************************ Chaupai_4 ************************
+CH_4_S_1            WAVE          ".\\Audio\\Chaupai1\\Sunderkand_Chaupai4_Part1.wav"
+CH_4_S_2            WAVE          ".\\Audio\\Chaupai1\\Sunderkand_Chaupai4_Part2.wav"
+CH_4_S_3            WAVE          ".\\Audio\\Chaupai1\\Sunderkand_Chaupai4_Part3.wav"
+
