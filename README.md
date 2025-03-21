@@ -1,1 +1,1 @@
-# rtr5_ortho_demos
+# A mythological story-based cinematic sequence using C and OpenGL.
