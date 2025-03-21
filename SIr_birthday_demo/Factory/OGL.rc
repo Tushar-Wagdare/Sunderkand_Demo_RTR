@@ -1,9 +1,0 @@
-#include<Windows.h>
-
-#include "OGL.h"
-
-MYICON ICON MyIcon.ico
-
-
-
-

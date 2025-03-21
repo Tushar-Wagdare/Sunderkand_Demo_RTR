@@ -1,9 +1,0 @@
-// Header Files
-#include <Windows.h>
-
-#include "OGL.h"
-
-MYICON ICON MyIcon.ico
-
-//************************ Sir's Audio ************************
-KALLA_KA_SANGA_MALA			WAVE          ".\\Audio\\kalla_ka_sanga_mala.wav"
