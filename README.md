@@ -8,7 +8,7 @@
 - **Audio integration** for immersive narration.
 - **Custom icons and assets** to enhance the experience.
 
-### Installation
+### Want to run on your machine?
 1. Clone this repository:
    ```
    git clone https://github.com/yourusername/Sunderkand_Demo_RTR.git
